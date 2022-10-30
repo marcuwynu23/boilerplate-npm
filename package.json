@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mark Wayne B. Menorca",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
